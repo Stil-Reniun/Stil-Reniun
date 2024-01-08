@@ -22,7 +22,7 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <br>
 
-- **Frameworks, Platfroms & Libraries*:
+- *Frameworks, Platfroms & Libraries*:
   
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
@@ -34,7 +34,8 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <br>
   
-- **Others*:
+- *Others*:
+
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
