@@ -4,7 +4,11 @@
 <img src="https://res.cloudinary.com/duhdn1adv/image/upload/v1704725300/1696479127411_bvi5ya.jpg" >
 
 # 💫 About Me:
-👋 <br><br>🚀 <br><br>💻 <br><br>🌱 <br><br>📚 <br><br>📬 <br>
+-👋 Welcome to my GitHub profile! I'm passionate about technology and recently graduated from the Software Design Career at Instituto Certus. Although my experience in the technology field is limited, I'm determined to learn and grow in the world of programming.
+- 🎓 Graduated from the Software Design Career at Instituto Certus.
+- 💻 Basic knowledge in Java, JavaScript, TypeScript, and Python.
+- 🐧 Familiar with different distributions of Linux.
+- 🚀 Committed to learning and constantly improving in the field of technology.
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
