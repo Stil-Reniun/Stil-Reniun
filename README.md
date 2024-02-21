@@ -6,7 +6,6 @@
 # 💫 About Me:
 - 👋 Welcome to my GitHub profile! I'm passionate about technology and recently graduated from the Software Design Career at Instituto Certus. Although my experience in the technology field is limited, I'm determined to learn and grow in the world of programming.
 - 🎓 Graduated from the Software Design Career at Instituto Certus.
-- 💻 Basic knowledge in Java, JavaScript, TypeScript, and Python.
 - 🐧 Familiar with different distributions of Linux.
 - 🚀 Committed to learning and constantly improving in the field of technology.
 
